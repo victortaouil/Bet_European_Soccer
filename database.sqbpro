@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/victo/Desktop/SQLite/Database_Europe/database.sqlite" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="36815"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,7:mainCountry"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Country" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="96"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="League" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="103"/><column index="3" value="198"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Match" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="56" mode="0"/></sort><column_widths><column index="1" value="105"/><column index="2" value="103"/><column index="3" value="94"/><column index="4" value="86"/><column index="5" value="57"/><column index="6" value="162"/><column index="7" value="127"/><column index="8" value="176"/><column index="9" value="173"/><column index="10" value="160"/><column index="11" value="157"/><column index="12" value="156"/><column index="13" value="156"/><column index="14" value="156"/><column index="15" value="156"/><column index="16" value="156"/><column index="17" value="156"/><column index="18" value="156"/><column index="19" value="156"/><column index="20" value="156"/><column index="21" value="167"/><column index="22" value="167"/><column index="23" value="153"/><column index="24" value="153"/><column index="25" value="153"/><column index="26" value="153"/><column index="27" value="153"/><column index="28" value="153"/><column index="29" value="153"/><column index="30" value="153"/><column index="31" value="153"/><column index="32" value="164"/><column index="33" value="164"/><column index="34" value="155"/><column index="35" value="155"/><column index="36" value="155"/><column index="37" value="155"/><column index="38" value="155"/><column index="39" value="155"/><column index="40" value="155"/><column index="41" value="155"/><column index="42" value="155"/><column index="43" value="166"/><column index="44" value="166"/><column index="45" value="152"/><column index="46" value="152"/><column index="47" value="152"/><column index="48" value="152"/><column index="49" value="152"/><column index="50" value="152"/><column index="51" value="152"/><column index="52" value="152"/><column index="53" value="152"/><column index="54" value="163"/><column index="55" value="163"/><column index="56" value="144"/><column index="57" value="144"/><column index="58" value="144"/><column index="59" value="144"/><column index="60" value="144"/><column index="61" value="144"/><column index="62" value="144"/><column index="63" value="144"/><column index="64" value="144"/><column index="65" value="155"/><column index="66" value="155"/><column index="67" value="141"/><column index="68" value="141"/><column index="69" value="141"/><column index="70" value="141"/><column index="71" value="141"/><column index="72" value="141"/><column index="73" value="141"/><column index="74" value="141"/><column index="75" value="141"/><column index="76" value="152"/><column index="77" value="152"/><column index="78" value="52"/><column index="79" value="70"/><column index="80" value="73"/><column index="81" value="108"/><column index="82" value="52"/><column index="83" value="55"/><column index="84" value="65"/><column index="85" value="105"/><column index="86" value="68"/><column index="87" value="68"/><column index="88" value="67"/><column index="89" value="52"/><column index="90" value="52"/><column index="91" value="52"/><column index="92" value="52"/><column index="93" value="52"/><column index="94" value="52"/><column index="95" value="52"/><column index="96" value="52"/><column index="97" value="52"/><column index="98" value="52"/><column index="99" value="52"/><column index="100" value="52"/><column index="101" value="53"/><column index="102" value="105"/><column index="103" value="52"/><column index="104" value="52"/><column index="105" value="52"/><column index="106" value="52"/><column index="107" value="52"/><column index="108" value="52"/><column index="109" value="52"/><column index="110" value="52"/><column index="111" value="52"/><column index="112" value="52"/><column index="113" value="52"/><column index="114" value="52"/><column index="115" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Player" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="127"/><column index="3" value="245"/><column index="4" value="167"/><column index="5" value="162"/><column index="6" value="65"/><column index="7" value="69"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Player_Attributes" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="167"/><column index="3" value="127"/><column index="4" value="162"/><column index="5" value="130"/><column index="6" value="87"/><column index="7" value="137"/><column index="8" value="189"/><column index="9" value="192"/><column index="10" value="82"/><column index="11" value="85"/><column index="12" value="165"/><column index="13" value="132"/><column index="14" value="70"/><column index="15" value="87"/><column index="16" value="57"/><column index="17" value="175"/><column index="19" value="113"/><column index="20" value="114"/><column index="21" value="122"/><column index="22" value="63"/><column index="23" value="89"/><column index="24" value="76"/><column index="25" value="113"/><column index="26" value="81"/><column index="27" value="78"/><column index="28" value="83"/><column index="29" value="106"/><column index="30" value="104"/><column index="31" value="123"/><column index="32" value="107"/><column index="33" value="61"/><column index="34" value="88"/><column index="35" value="80"/><column index="36" value="147"/><column index="37" value="129"/><column index="38" value="95"/><column index="39" value="117"/><column index="40" value="103"/><column index="41" value="139"/><column index="42" value="110"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Team" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="52"/><column index="2" value="117"/><column index="3" value="157"/><column index="4" value="224"/><column index="5" value="167"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Team_Attributes" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="157"/><column index="3" value="117"/><column index="4" value="162"/><column index="5" value="166"/><column index="6" value="210"/><column index="7" value="192"/><column index="8" value="236"/><column index="9" value="179"/><column index="10" value="223"/><column index="11" value="254"/><column index="12" value="208"/><column index="13" value="252"/><column index="14" value="216"/><column index="15" value="260"/><column index="16" value="220"/><column index="17" value="264"/><column index="18" value="283"/><column index="19" value="152"/><column index="20" value="196"/><column index="21" value="174"/><column index="22" value="218"/><column index="23" value="175"/><column index="24" value="219"/><column index="25" value="237"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="135"/><column index="2" value="61"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1"> WITH 
+ cte AS
+ (SELECT match.home_team_api_id AS Home_id
+		FROM Match
+		WHERE B365H &gt; 6.5 AND B365H )
+		,
+		
+	cte1 AS
+	
+	(SELECT match.away_team_api_id AS Away_id
+		FROM Match
+		WHERE B365A &gt; 6.5 AND B365A )
+		,
+	cte2 AS
+	(SELECT 
+	team_api_id,
+	team_long_name
+FROM Team
+INNER JOIN Match 
+	ON Match.home_team_api_id = Team.team_api_id )
+ 
+ 
+SELECT 
+	DISTINCT(team_api_id),
+	team_long_name
+FROM cte2
+INNER JOIN Match 
+	ON Match.away_team_api_id = cte2.team_api_id
+
+WHERE 
+	team_api_id NOT IN
+	(SELECT Home_id
+		FROM cte) 
+		
+	AND
+	
+	team_api_id NOT IN
+	(SELECT Away_id
+		FROM cte1)
+	
+	AND 
+	
+	(B365H AND B365A NOT NULL)</sql><sql name="SQL 2"> WITH cte1 AS
+ (SELECT 
+	season AS Temporada,
+	stage AS Rodada,
+	B365H,
+	B365A,
+	CASE WHEN home_team_api_id = '8634'
+	THEN  SUM(B365H) OVER(ORDER BY season ASC ROWS BETWEEN 0 PRECEDING AND  CURRENT ROW) 
+	ELSE SUM(B365A) OVER(ORDER BY season ASC ROWS BETWEEN 0 PRECEDING AND  CURRENT ROW) 
+	END AS odd_Barcelona_win ,
+	
+	CASE WHEN home_team_api_id = '8634' AND home_team_goal &gt; away_team_goal THEN 1
+	WHEN home_team_api_id = '8634' AND home_team_goal &lt;= away_team_goal THEN 0
+	WHEN away_team_api_id = '8634' AND away_team_goal &gt; home_team_goal THEN 1
+	WHEN away_team_api_id = '8634' AND away_team_goal &lt;= home_team_goal THEN 0 
+	END AS Barcelona_win 
+	
+FROM match 
+WHERE 
+	home_team_api_id = 
+	(SELECT team_api_id 
+		FROM team
+		WHERE team_long_name = 'FC Barcelona') 
+	OR 
+	away_team_api_id =
+	(SELECT team_api_id
+		FROM team
+		WHERE team_long_name = 'FC Barcelona')
+ )
+ 
+ SELECT 
+	Temporada,
+	Rodada,
+	odd_Barcelona_win,
+	Barcelona_win,
+	
+CASE WHEN Barcelona_win = 0 THEN -100 
+	WHEN Barcelona_win = 1 THEN (100*odd_Barcelona_win -100 )
+	END AS Montante 
+	FROM cte1;</sql><sql name="SQL 5">WITH cte AS
+( SELECT 
+	team_api_id,
+	team_long_name
+FROM Team
+INNER JOIN Match 
+	ON Match.Home_team_api_id = Team.team_api_id 
+INNER JOIN Match 
+	ON Match.Away_team_api_id = Team.team_api_id
+
+WHERE 
+	team_api_id NOT IN
+	(SELECT home_team_api_id 
+		FROM Match
+		WHERE B365H &gt; 4.0) 
+	OR 
+	team_api_id NOT IN
+	(SELECT away_team_api_id 
+		FROM Match
+		WHERE B365A &gt; 4.0 )
+		)
+	
+	,
+
+ cte1 AS
+ (SELECT 
+	season AS Temporada
+	B365H,
+	B365A,
+	CASE WHEN home_team_api_id IN cte2
+	THEN  SUM(B365H) OVER(ORDER BY season ASC ROWS BETWEEN 0 PRECEDING AND  CURRENT ROW) 
+	ELSE SUM(B365A) OVER(ORDER BY season ASC ROWS BETWEEN 0 PRECEDING AND  CURRENT ROW) 
+	END AS odd_team_win ,
+	
+	CASE WHEN home_team_api_id IN (SELECT .......)
+
+	AND home_team_goal &gt; away_team_goal THEN 1
+	
+	WHEN home_team_api_id IN ( SELECT .........)
+
+	AND home_team_goal &lt;= away_team_goal THEN 0
+	
+	WHEN away_team_api_id = IN (SELECT ......)
+
+	AND away_team_goal &gt; home_team_goal THEN 1
+	
+	WHEN away_team_api_id IN (SELECT .......)
+
+	AND away_team_goal &lt;= home_team_goal THEN 0 
+	
+	END AS Team_win 
+	
+FROM match 
+WHERE 
+	home_team_api_id IN 
+	(SELECT team_api_id 
+		FROM cte
+		) 
+	OR 
+	away_team_api_id =
+	(SELECT team_api_id
+		FROM team
+		WHERE team_long_name = 'FC Barcelona')
+ )
+ 
+ SELECT 
+	Temporada,
+	Rodada,
+	odd_team_win,
+	Team_win,
+	
+CASE WHEN Team_win = 0 THEN -100 
+	WHEN Team_win = 1 THEN (100*odd_team_win -100 )
+	END AS Montante 
+	FROM cte1;</sql><sql name="SQL 6"> WITH 
+ cte AS
+ (SELECT match.home_team_api_id AS Home_id
+		FROM Match
+		WHERE B365H &gt; 6.5 AND B365H )
+		,
+		
+	cte1 AS
+	
+	(SELECT match.away_team_api_id AS Away_id
+		FROM Match
+		WHERE B365A &gt; 6.5 AND B365A )
+		,
+	cte2 AS
+	(SELECT 
+	team_api_id,
+	team_long_name
+FROM Team
+INNER JOIN Match 
+	ON Match.home_team_api_id = Team.team_api_id )
+ ,
+ cte3 AS
+ 
+(SELECT 
+	DISTINCT(team_api_id),
+	team_long_name
+FROM cte2
+INNER JOIN Match 
+	ON Match.away_team_api_id = cte2.team_api_id
+
+WHERE 
+	team_api_id NOT IN
+	(SELECT Home_id
+		FROM cte) 
+		
+	AND
+	
+	team_api_id NOT IN
+	(SELECT Away_id
+		FROM cte1)
+	
+	AND 
+	
+	(B365H AND B365A NOT NULL))
+	
+		
+SELECT 
+	season AS Temporada,
+	home_team_api_id,
+	away_team_api_id,
+	B365H,
+	B365A,
+	home_team_goal,
+	away_team_goal,
+	CASE WHEN home_team_api_id IN ( SELECT team_api_id FROM cte3)
+	THEN  SUM(B365H) OVER(ORDER BY season ASC ROWS BETWEEN 0 PRECEDING AND  CURRENT ROW) 
+	ELSE SUM(B365A) OVER(ORDER BY season ASC ROWS BETWEEN 0 PRECEDING AND  CURRENT ROW) 
+	
+	END AS odd_team_win ,
+	
+	CASE WHEN home_team_api_id IN (SELECT team_api_id FROM cte3)
+
+	AND home_team_goal &gt; away_team_goal THEN 1
+	
+	WHEN home_team_api_id IN ( SELECT team_api_id FROM cte3)
+
+	AND home_team_goal &lt;= away_team_goal THEN 0
+	
+	WHEN away_team_api_id  IN (SELECT team_api_id FROM cte3)
+
+	AND away_team_goal &gt; home_team_goal THEN 1
+	
+	WHEN away_team_api_id IN (SELECT team_api_id FROM cte3)
+
+	AND away_team_goal &lt;= home_team_goal THEN 0 
+	
+	END AS Team_win 
+	
+	FROM match
+	
+	WHERE 
+		home_team_api_id IN (SELECT team_api_id FROM cte3)
+			OR
+		away_team_api_id IN (SELECT team_api_id FROM cte3);
+	
+	
+		</sql><current_tab id="2"/></tab_sql></sqlb_project>
